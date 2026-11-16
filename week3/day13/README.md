@@ -1,0 +1,1 @@
+uv add "torch==2.2.2" "numpy<2" "transformers<4.49" "sentence-transformers<3.4"
